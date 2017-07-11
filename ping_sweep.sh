@@ -1,5 +1,6 @@
-#!/bin/bash
+# Fast ping subnet sweeping bash script using nmap
 
+#!/bin/bash
 subnet=$(ip -o -f inet addr show | awk '/scope global/ {print $4}');
 echo "[-] Scanning Subnet:  "$subnet;
 now=$(date +%Y_%m_%d_%H_%M);

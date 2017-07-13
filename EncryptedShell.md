@@ -10,3 +10,5 @@ where `port` is any port number, and `ip` is the other machine IP.
 `ncat -v ip2 port --ssl`
 
 where `port` is any port number, and `ip2` is the other machine IP.
+
+![nc](https://user-images.githubusercontent.com/12968456/28184683-a13c6d5e-6814-11e7-87ea-28c7069a20b7.png)

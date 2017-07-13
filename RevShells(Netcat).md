@@ -16,5 +16,5 @@ where `ip` is the attacker machine IP and `port` is the chosen listening port.
 
 ## Video Tutorials
 
-Win Reverse: https://goo.gl/bNxhbf
+Win Reverse: https://goo.gl/bNxhbf <br>
 Linux Reverse: https://goo.gl/pwkJXB
